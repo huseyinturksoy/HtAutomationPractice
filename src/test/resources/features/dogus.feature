@@ -1,2 +1,2 @@
-Feature: Dogus oto automation
+Feature:Dogus oto automation
 

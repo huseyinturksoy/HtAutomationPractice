@@ -11,10 +11,10 @@ import org.junit.runner.RunWith;
                     "html:target/default-html-reports.html"},
 
             monochrome = true,
-            features = "src/test/resources/feature",
+            features = "src/test/resources/features",
             glue = "com/dogus/stepdefinitions",
             dryRun = false,
-            tags = ""
+            tags = "@wip"
     )
 
     class CukesRunner {

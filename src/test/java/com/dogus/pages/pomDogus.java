@@ -12,6 +12,6 @@ public class pomDogus {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-    @FindBy()
+
 
 }
