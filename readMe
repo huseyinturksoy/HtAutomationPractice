@@ -1,5 +1,10 @@
 This program has many components
 
+In this small project Cucumber BDD framework is applied
+Also POM desing pattern is also implemented
+You can run your test from CukesRunner class
+There a few utility clas for your usage
+
 if you want to like all posts of an instagram account
 you can change the login credentials and the related account information from the
 configuration.properties file
